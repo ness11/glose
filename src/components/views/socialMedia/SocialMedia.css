@@ -1,0 +1,30 @@
+.social-media {
+	height: 135px;
+}
+.facebook {
+	background-color: #425fb4;
+	height: 30px;
+	width: 160px;
+	margin: 30px;
+}
+.twitter {
+	background-color: #00b6f7;
+	height: 30px;
+	width: 130px;
+	margin: 30px;
+}
+.email {
+	background-color: #aeaeae;
+	height: 30px;
+	width: 130px;
+	margin: 30px;
+}
+.icon {
+	color: white;
+}
+.ico-name {
+	color: white;
+	font-size: 12px;
+	font-weight: bold;
+	font-family: proxima-nova, sans-serif;
+}

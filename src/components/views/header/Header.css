@@ -1,0 +1,11 @@
+.image {
+	height: 315px;
+	width: 100%;
+	object-fit: cover;
+	position: relative;
+}
+.title {
+	position: absolute;
+	color: white;
+	font-family: proxima-nova, arial, sans-serif;
+}

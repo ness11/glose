@@ -1,0 +1,45 @@
+.title-book {
+	color: black;
+}
+.image-book {
+	height: 280px;
+	width: 180px;
+	box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.title-book {
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+	margin-bottom: -5px;
+	font-family: Merriweather, Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-weight: 700;
+}
+.book-list {
+	width: 180px;
+}
+
+.contain {
+	margin-bottom: 100px;
+	margin-right: 30px;
+	height: 300px;
+}
+.from {
+	padding-top: -30px;
+	font-family: Proxima-nova;
+	font-size: 14px;
+	color: #888888;
+}
+.author {
+	padding-top: -30px;
+	font-family: Proxima-nova;
+	font-size: 14px;
+	font-weight: bold;
+	color: #888888;
+}
+.book-card {
+	height: 300px;
+}
+.image-book:hover {
+	opacity: 0.3;
+}
